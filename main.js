@@ -50,6 +50,8 @@ const content = [`
 function go(num) {
     if(lastClick != num) {
         $(".row:nth-child(3)").html(content[num]);
+        $(".nav-item.active").removeClass("active");
+        $(".nav-item").eq(num).addClass("active");
         lastClick = num;
     }
 }
