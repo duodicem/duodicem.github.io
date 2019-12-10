@@ -20,8 +20,8 @@ const content = [`
 
 <div data-aos="fade-right" data-aos-duration="700" class="col-3">
     <div class="list-group list-group-flush">
-        <a href="#_announcements" class="list-group-item list-group-item-action active">How to Play «</a>
-        <a href="#_footer" class="list-group-item list-group-item-action">How to Win «</a>
+        <a href="#_how_to_play" class="list-group-item list-group-item-action active">How to Play «</a>
+        <a href="#_how_to_win" class="list-group-item list-group-item-action">How to Win «</a>
     </div>
 </div>
 <div data-aos="fade-left" data-aos-duration="700" class="col-9">
@@ -41,7 +41,7 @@ const content = [`
 <div data-aos="fade-right" data-aos-duration="700" class="col-3">
     <div class="list-group list-group-flush">
         <a href="#_announcements" class="list-group-item list-group-item-action active">Why Should You Play? «</a>
-        <a href="#_footer" class="list-group-item list-group-item-action">Potential Profit «</a>
+        <a href="#_potential_profit" class="list-group-item list-group-item-action">Potential Profit «</a>
     </div>
 </div>
 <div data-aos="fade-left" data-aos-duration="700" class="col-9">
