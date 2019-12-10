@@ -1,6 +1,10 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 
+html {
+    scroll-behavior: smooth;
+}
+
 * {
     font-family: 'Raleway', sans-serif;
     color: #222;
