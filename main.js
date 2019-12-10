@@ -49,24 +49,33 @@ const content = [`
     <p>DuoDiceM is an extremely easy game to play!</br></p>
     <p>It is the perfect game for people looking for a relaxed (and profitable) trip to the casino!</br></p>
     <p>Not only is it a fair 2v2 game, but it is also purely based on luck! So, for those that may not frequent the casino, 
-    DuoDiceM is the perfect game for you!</br>
+    DuoDiceM is the perfect game for you!</br></p>
     <h2 id="_potential_profit">Potential Profit</h2>
     <p>DuoDiceM only costs $3 to play!</br></p>
-    <p>Not only is it cheap, but there's a lot of room to profit! If you win, you get $10 back, so you make $7!</br></p>
+    <p>Not only is it cheap, but there's a lot of room to profit! If you win, you get $10 back, so you make $7! So, you're making
+    $2.33 for every dollar you put in!</br></p>
     <p>In addition to potential profit by winning, you can also make side bets with your money! You are able to bet on what you
     think both the dealer and yourself will roll.</p>
+    <p><small>*Payout odds for side bets will vary depending on the casino.</small></p>
 </div>
 
 `,`
 
 <div data-aos="fade-right" data-aos-duration="700" class="col-3">
     <div class="list-group list-group-flush">
-        <a href="#_announcements" class="list-group-item list-group-item-action active">Questions «</a>
+        <a href="#_questions" class="list-group-item list-group-item-action active">Questions «</a>
     </div>
 </div>
 <div data-aos="fade-left" data-aos-duration="700" class="col-9">
-    <h2 id="_announcements">Announcements</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fermentum augue in nisi elementum, quis congue mauris suscipit. Ut ut dui faucibus, mollis nisi in, volutpat diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus non nisi hendrerit, molestie sem ac, dapibus nibh. Vestibulum condimentum ac justo ac vehicula. Sed rhoncus ante sit amet elit volutpat convallis. Fusce in orci a odio pellentesque faucibus ut sit amet ligula. Donec eu tellus elit. Nullam scelerisque iaculis facilisis. Suspendisse potenti. Ut vel sodales risus, varius efficitur risus.</p>
+    <h3 id="_q1">Why is it called DuoDiceM?</h2>
+    <p>The Latin word for twelve is <i>duodecim</i>, so the creators of DuoDiceM just changed some letters around and - voila! -
+    the name DuoDiceM was created as a clever name for a dice game.</br></p>
+    <h3 id="_q2">How can we contact the creators directly?</h3>
+    <p>You can't. The creators have decided to remain anonymous in order to avoid any threats if a person would happen to lose
+    lots of money playing DuoDiceM.</br></p>
+    <h3 id="_q3">Can DuoDiceM be played at home?</h3>
+    <p>DuoDiceM is currently only meant to be played in a casino environment, but in the future it may be available in select
+    retailers.</br></p>
 </div>
 
 `];
