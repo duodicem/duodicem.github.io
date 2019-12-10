@@ -21,14 +21,17 @@ const content = [`
     </div>
 </div>
 <div data-aos="fade-left" data-aos-duration="700" class="col-9">
-    <h2 id="_announcements">How to Play</h2>
+    <h2 id="_how_to_play">How to Play</h2>
     <p></br>The game is simple. </br></p>
     <p>Both the player and the dealer get 2 dice each. The only difference is that the dealer gets 2 regular, 6-sided dice with numbers 1-6 on the sides whereas the 
     player gets 2 dodecahedron, or 12-sided, dice with four 1's, four 2's, and four 3's on the sides.</br></p>
     <p>The value that the dealer rolls is determined by the highest number that is face-up on the 2 dice. So, if the dealer rolls a 3 and a 5, then the value of the roll would be 5.</br></p>
     <p>The value that the player rolls is determined by the sum of the 2 values face-up on the dice. So, if the player rolls a 2 and a 3, then the value of the roll would be 5.</br></p>
     <p>See?</br></p>
-    <p>It's easy! And purely based on luck... the perfect game for beginners at the casino!</p>
+    <p>It's easy! And purely based on luck... the perfect game for beginners at the casino!</br></p>
+    <h2 id="_how_to_win">How to Win</h2>
+    <p></br>In order to win, the player must roll a higher value than the dealer.</br></p>
+    <p>However, if the dealer and player roll the same value OR the dealer rolls a value higher than the player, then the dealer wins.</p>
 </div>
 `,`
 <div data-aos="fade-right" data-aos-duration="700" class="col-3">
